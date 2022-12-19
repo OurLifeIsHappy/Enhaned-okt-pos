@@ -1,0 +1,8 @@
+
+{
+    "PATH_DATASET" : "data/res/SXDP2002103180.json",
+    "PATH_NOUN_DICT": "data/res/New_kiwi_okt_noun_dict.json",
+    "PATH_WRITE_dict": "data/res/save_log.json",
+    "start_index": 0,
+    "end_index":  4
+}
